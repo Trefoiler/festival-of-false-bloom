@@ -8,18 +8,17 @@ const source = path.resolve(settings.campaignFolder)
 const destination = path.join(repo, 'content')
 const prefix = 'Campaigns/Festival of False Bloom/'
 const selected = ['Party.md', 'People.md', 'Current Threads.md']
-for (const folder of ['People', 'Sessions']) {
+function collect(folder, include) {
   for (const entry of fs.readdirSync(path.join(source, folder), { withFileTypes: true })) {
-    if (entry.isFile() && entry.name.endsWith('.md') &&
-        (folder === 'People' || /^Session \d+\.md$/.test(entry.name))) {
-      selected.push(`${folder}/${entry.name}`)
-    }
+    if (entry.name.startsWith('.')) continue
+    const relative = `${folder}/${entry.name}`
+    if (relative === 'Sessions/Transcripts' || relative === 'Sessions/Template.md') continue
+    if (entry.isDirectory()) collect(relative, include)
+    else if (entry.isFile() && include(entry.name)) selected.push(relative)
   }
 }
-const assets = 'Attachments/Quest Scrolls'
-for (const entry of fs.readdirSync(path.join(source, assets), { withFileTypes: true })) {
-  if (entry.isFile() && /\.(png|jpg|jpeg|webp)$/i.test(entry.name)) selected.push(`${assets}/${entry.name}`)
-}
+for (const folder of ['People', 'Sessions']) collect(folder, name => name.endsWith('.md'))
+collect('Attachments', () => true)
 function resolveWiki(target) {
   target = target.replaceAll('\\', '/').replace(prefix, '')
   return selected.find(item => item === target || item === `${target}.md`) ??
@@ -35,7 +34,7 @@ function relativeUrl(current, target, anchor = '') {
 function clean(text, current) {
   text = text.replace(/^\*\*Source:\*\*.*$/gm, '**Source:** Session notes and campaign handouts.')
   text = text.replace(/^\*\*(Companion|Nathan's quick reference):\*\*.*\r?\n/gm, '')
-  text = text.replace(/\s*·\s*\[\[Notes Guide\]\]/g, '')
+  text = text.replace(/\s*·\s*\[\[(?:Campaigns\/Festival of False Bloom\/Reference\/)?Notes Guide(?:\|[^\]]+)?\]\]/g, '')
   // Moving a note to a folder landing page also changes its relative Markdown links.
   text = text.replace(/(!?\[[^\]\n]*\]\()([^\s)]+)(\))/g, (match, opening, url, closing) => {
     if (/^(?:[a-z][a-z0-9+.-]*:|\/|#)/i.test(url)) return match
@@ -62,9 +61,11 @@ for (const relative of selected) {
   if (relative === 'People.md') data = '---\ncssclasses: [people-index]\n---\n' + data
   outputs.set(exportPath(relative), data)
 }
-const sessions = selected.filter(item => /^Sessions\/Session \d+\.md$/.test(item))
-  .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]))
-const latest = sessions.at(-1)
+const sessions = selected.filter(item => item.startsWith('Sessions/') && item.endsWith('.md'))
+  .sort((a, b) => a.localeCompare(b, 'en', { numeric: true }))
+const numbered = sessions.filter(item => /^Session \d+\b/.test(path.posix.basename(item)))
+  .sort((a, b) => Number(path.posix.basename(a).match(/\d+/)[0]) - Number(path.posix.basename(b).match(/\d+/)[0]))
+const latest = numbered.at(-1)
 const text = latest ? fs.readFileSync(path.join(source, latest), 'utf8') : ''
 const section = name => text.replaceAll('\r\n', '\n').split(`\n## ${name}\n`)[1]?.split('\n## ')[0]?.trim() || ''
 const home = `# Festival of False Bloom

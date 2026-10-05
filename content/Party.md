@@ -2,7 +2,7 @@
 
 **DM:** Jon — `paleboyjon`
 
-**Campaign notes:** [Current Threads](Current%20Threads.md) · [People](People.md) · [Session 1](Sessions/Session%201.md)
+**Campaign notes:** [Current Threads](Current%20Threads.md) · [People](People/index.md) · [Session 1](Sessions/Session%201.md)
 
 | Player | Character | Species | Class | Level | D&D Beyond username |
 | --- | --- | --- | --- | --- | --- |

@@ -9,6 +9,8 @@ configuration:
   ignorePatterns:
     - private
     - .obsidian
+    - Personal
+    - Reference
     - Sessions/Transcripts
     - Sessions/Template.md
     - Notes Guide.md

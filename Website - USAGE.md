@@ -10,8 +10,12 @@
 
 ## Content
 
-- **Included:** Party, People index and entries, Current Threads, numbered session notes, and quest scroll images.
-- **Excluded:** Transcripts, templates, Notes Guide, live Meta Bind tracker, personal combat reference, and old campaigns.
+- **Included:** Party, People index, Current Threads, all Markdown notes in `People/` and `Sessions/`, and all files in `Attachments/`.
+	- These folders include subfolders; new notes and handouts are included automatically.
+- **Excluded:** `Personal/`, `Reference/`, `Sessions/Transcripts/`, hidden files and folders, and old campaigns.
+	- `Personal/` holds Gordon's live tracker and Nathan's session reference.
+	- `Reference/` holds Notes Guide and Session Template.
+- **Updates:** Run `Preview.cmd` or `Publish.cmd` to refresh the exported copy. Vault edits do not continuously sync to the website.
 - **Generated files:** `content/` is an export; edit the Obsidian originals instead.
 - **Local configuration:** `.publish.local.json` identifies the campaign folder on this computer and is excluded from Git.
 

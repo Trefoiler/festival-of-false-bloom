@@ -2,7 +2,7 @@
 
 **Updated through:** [Session 1](Sessions/Session%201.md)
 **Party:** [Party](Party.md)
-**NPCs:** [People](People.md)
+**NPCs:** [People](People/index.md)
 
 ## Immediate situation
 

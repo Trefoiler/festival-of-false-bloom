@@ -1,7 +1,7 @@
 # Farmhouse Men
 
 **Updated through:** [Session 1](../Sessions/Session%201.md)
-**Index:** [People](../People.md)
+**Index:** [People](index.md)
 
 - **Identity:** Unknown; encountered as a group.
 - **Observed:**

@@ -1,7 +1,7 @@
 # Minor Encounters
 
 **Updated through:** [Session 1](../Sessions/Session%201.md)
-**Index:** [People](../People.md)
+**Index:** [People](index.md)
 
 ## Session 1
 

@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-04
 **Active players:** Owen, Damane, Shepherd, Brayden
-**References:** [Party](../Party.md) · [Current Threads](../Current%20Threads.md) · [People](../People.md)
+**References:** [Party](../Party.md) · [Current Threads](../Current%20Threads.md) · [People](../People/index.md)
 **Source:** Session notes and campaign handouts.
 
 ## Quick recap

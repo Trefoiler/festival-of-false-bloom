@@ -1,7 +1,7 @@
 # Garrick Voss
 
 **Updated through:** [Session 1](../Sessions/Session%201.md)
-**Index:** [People](../People.md)
+**Index:** [People](index.md)
 
 - **Identity:** Named by Silas; the party has not met him.
 - **Nathan's nickname:** “Garrett.”

@@ -1,7 +1,7 @@
 # Silas Pruitt
 
 **Updated through:** [Session 1](../Sessions/Session%201.md)
-**Index:** [People](../People.md)
+**Index:** [People](index.md)
 
 - **Identity:** Mayor of Hanesworth; survived the festival explosion.
 	- Appearance: approximately 5'10", brown suit, neatly trimmed beard; dusty and bruised afterward.

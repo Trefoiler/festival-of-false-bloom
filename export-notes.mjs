@@ -25,25 +25,42 @@ function resolveWiki(target) {
   return selected.find(item => item === target || item === `${target}.md`) ??
     selected.find(item => path.posix.basename(item, '.md') === target || path.posix.basename(item) === target)
 }
+function exportPath(relative) {
+  return relative === 'People.md' ? 'People/index.md' : relative
+}
+function relativeUrl(current, target, anchor = '') {
+  return path.posix.relative(path.posix.dirname(exportPath(current)), exportPath(target))
+    .split('/').map(encodeURIComponent).join('/') + anchor
+}
 function clean(text, current) {
   text = text.replace(/^\*\*Source:\*\*.*$/gm, '**Source:** Session notes and campaign handouts.')
   text = text.replace(/^\*\*(Companion|Nathan's quick reference):\*\*.*\r?\n/gm, '')
   text = text.replace(/\s*·\s*\[\[Notes Guide\]\]/g, '')
+  // Moving a note to a folder landing page also changes its relative Markdown links.
+  text = text.replace(/(!?\[[^\]\n]*\]\()([^\s)]+)(\))/g, (match, opening, url, closing) => {
+    if (/^(?:[a-z][a-z0-9+.-]*:|\/|#)/i.test(url)) return match
+    const hash = url.indexOf('#')
+    const target = hash < 0 ? url : url.slice(0, hash)
+    const anchor = hash < 0 ? '' : url.slice(hash)
+    const resolved = path.posix.normalize(path.posix.join(path.posix.dirname(current), decodeURIComponent(target)))
+    return selected.includes(resolved) ? opening + relativeUrl(current, resolved, anchor) + closing : match
+  })
   return text.replace(/(!?)\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, embed, reference, alias) => {
     const [target, ...anchor] = reference.split('#')
     const resolved = resolveWiki(target)
     const label = alias || path.posix.basename(target)
     if (!resolved) return label
-    const relative = path.posix.relative(path.posix.dirname(current), resolved)
-    const url = relative.split('/').map(encodeURIComponent).join('/') +
-      (anchor.length ? `#${encodeURIComponent(anchor.join('#'))}` : '')
+    const url = relativeUrl(current, resolved,
+      anchor.length ? `#${encodeURIComponent(anchor.join('#'))}` : '')
     return `${embed}[${label}](${url})`
   })
 }
 const outputs = new Map()
 for (const relative of selected) {
   const input = path.join(source, relative)
-  outputs.set(relative, relative.endsWith('.md') ? clean(fs.readFileSync(input, 'utf8'), relative) : fs.readFileSync(input))
+  let data = relative.endsWith('.md') ? clean(fs.readFileSync(input, 'utf8'), relative) : fs.readFileSync(input)
+  if (relative === 'People.md') data = '---\ncssclasses: [people-index]\n---\n' + data
+  outputs.set(exportPath(relative), data)
 }
 const sessions = selected.filter(item => /^Sessions\/Session \d+\.md$/.test(item))
   .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]))

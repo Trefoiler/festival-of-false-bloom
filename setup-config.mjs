@@ -5,7 +5,7 @@ Object.assign(config.configuration, {
   pageTitle: 'Festival of False Bloom',
   analytics: null,
   baseUrl: 'trefoiler.github.io/festival-of-false-bloom',
-  ignorePatterns: ['private', '.obsidian', 'Personal', 'Reference', 'Sessions/Transcripts', 'Sessions/Template.md', 'Notes Guide.md'],
+  ignorePatterns: ['private', '.obsidian', 'Personal', 'Reference', 'Session Notes/Transcripts'],
 })
 config.configuration.theme.fontOrigin = 'local'
 config.configuration.theme.typography = { header: 'Georgia', body: 'Arial', code: 'Consolas' }

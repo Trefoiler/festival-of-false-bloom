@@ -5,12 +5,12 @@ The campaign wiki from the party's perspective. NPC claims and party theories ar
 ## Campaign references
 
 - **[Current Threads](Current%20Threads.md):** Active quests, clues, and next steps.
-- **[People](People/index.md):** People and groups the party knows about.
-- **[Party](Party.md):** Players and characters.
+- **[People & Groups](People%20&%20Groups/index.md):** People and groups the party knows about.
+- **[Party Members](Party%20Members.md):** Players and characters.
 
 ## Latest session
 
-[Read Session 1](Sessions/Session%201.md)
+[Read Session 1](Session%20Notes/Session%201.md)
 
 - Hanesworth's flower festival exploded; the party joined forces and defeated five attackers wearing black boots.
 - Mayor Silas Pruitt named Garrick Voss as the suspected culprit and revealed an extortion demand and a restrictive chest sigil.
@@ -31,6 +31,6 @@ The campaign wiki from the party's perspective. NPC claims and party theories ar
 	- Food and medical supplies were located in the adjoining room.
 	- EscaMundo had returned injured after being kidnapped; his character sheet tracks his HP.
 
-## Sessions
+## Session Notes
 
-- [Session 1](Sessions/Session%201.md)
+- [Session 1](Session%20Notes/Session%201.md)

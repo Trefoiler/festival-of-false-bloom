@@ -1,8 +1,8 @@
 # Current Threads
 
-**Updated through:** [Session 1](Sessions/Session%201.md)
-**Party:** [Party](Party.md)
-**NPCs:** [People](People/index.md)
+**Updated through:** [Session 1](Session%20Notes/Session%201.md)
+**Party members:** [Party Members](Party%20Members.md)
+**People & groups:** [People & Groups](People%20&%20Groups/index.md)
 
 ## Immediate situation
 
@@ -11,7 +11,7 @@
 	- The party has breached the house; enemies are alert, with no surprise round.
 	- A man inside is bleeding; medical supplies remain in the adjoining room.
 	- Next: resolve the confrontation, help the wounded man, and retrieve supplies.
-	- Exact party positions: [Session 1: Where we stopped](Sessions/Session%201.md#Where%20we%20stopped).
+	- Exact party positions: [Session 1: Where we stopped](Session%20Notes/Session%201.md#Where%20we%20stopped).
 
 ## Garrick Voss & the Hollowed Expanse
 
@@ -28,7 +28,7 @@
 	- Observed embedded in his chest; the same insignia appears on the farmhouse knives.
 	- Silas claimed disclosing the protected information would kill him, including attempts to write it.
 	- Next: identify the insignia and learn what the men know.
-	- Source: [Session 1: Clues & open questions](Sessions/Session%201.md#Clues%20%26%20open%20questions).
+	- Source: [Session 1: Clues & open questions](Session%20Notes/Session%201.md#Clues%20%26%20open%20questions).
 
 ## Quest scrolls
 

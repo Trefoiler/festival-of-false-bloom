@@ -1,10 +1,10 @@
 ---
 cssclasses: [people-index]
 ---
-# People
+# People & Groups
 
-**Updated through:** [Session 1](../Sessions/Session%201.md)
-**Player characters:** [Party](../Party.md)
+**Updated through:** [Session 1](../Session%20Notes/Session%201.md)
+**Player characters:** [Party Members](../Party%20Members.md)
 **Unfinished business:** [Current Threads](../Current%20Threads.md)
 
 ## Hanesworth

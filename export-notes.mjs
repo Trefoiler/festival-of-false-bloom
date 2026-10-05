@@ -7,17 +7,17 @@ const settings = JSON.parse(fs.readFileSync(path.join(repo, '.publish.local.json
 const source = path.resolve(settings.campaignFolder)
 const destination = path.join(repo, 'content')
 const prefix = 'Campaigns/Festival of False Bloom/'
-const selected = ['Party.md', 'People.md', 'Current Threads.md']
+const selected = ['Party Members.md', 'People & Groups.md', 'Current Threads.md']
 function collect(folder, include) {
   for (const entry of fs.readdirSync(path.join(source, folder), { withFileTypes: true })) {
     if (entry.name.startsWith('.')) continue
     const relative = `${folder}/${entry.name}`
-    if (relative === 'Sessions/Transcripts' || relative === 'Sessions/Template.md') continue
+    if (relative === 'Session Notes/Transcripts') continue
     if (entry.isDirectory()) collect(relative, include)
     else if (entry.isFile() && include(entry.name)) selected.push(relative)
   }
 }
-for (const folder of ['People', 'Sessions']) collect(folder, name => name.endsWith('.md'))
+for (const folder of ['People & Groups', 'Session Notes']) collect(folder, name => name.endsWith('.md'))
 collect('Attachments', () => true)
 function resolveWiki(target) {
   target = target.replaceAll('\\', '/').replace(prefix, '')
@@ -25,11 +25,12 @@ function resolveWiki(target) {
     selected.find(item => path.posix.basename(item, '.md') === target || path.posix.basename(item) === target)
 }
 function exportPath(relative) {
-  return relative === 'People.md' ? 'People/index.md' : relative
+  return relative === 'People & Groups.md' ? 'People & Groups/index.md' : relative
 }
 function relativeUrl(current, target, anchor = '') {
+  // Quartz uses decodeURI, which leaves encoded ampersands unchanged before slugging.
   return path.posix.relative(path.posix.dirname(exportPath(current)), exportPath(target))
-    .split('/').map(encodeURIComponent).join('/') + anchor
+    .split('/').map(segment => encodeURIComponent(segment).replaceAll('%26', '&')).join('/') + anchor
 }
 function clean(text, current) {
   text = text.replace(/^\*\*Source:\*\*.*$/gm, '**Source:** Session notes and campaign handouts.')
@@ -58,10 +59,10 @@ const outputs = new Map()
 for (const relative of selected) {
   const input = path.join(source, relative)
   let data = relative.endsWith('.md') ? clean(fs.readFileSync(input, 'utf8'), relative) : fs.readFileSync(input)
-  if (relative === 'People.md') data = '---\ncssclasses: [people-index]\n---\n' + data
+  if (relative === 'People & Groups.md') data = '---\ncssclasses: [people-index]\n---\n' + data
   outputs.set(exportPath(relative), data)
 }
-const sessions = selected.filter(item => item.startsWith('Sessions/') && item.endsWith('.md'))
+const sessions = selected.filter(item => item.startsWith('Session Notes/') && item.endsWith('.md'))
   .sort((a, b) => a.localeCompare(b, 'en', { numeric: true }))
 const numbered = sessions.filter(item => /^Session \d+\b/.test(path.posix.basename(item)))
   .sort((a, b) => Number(path.posix.basename(a).match(/\d+/)[0]) - Number(path.posix.basename(b).match(/\d+/)[0]))
@@ -75,8 +76,8 @@ The campaign wiki from the party's perspective. NPC claims and party theories ar
 ## Campaign references
 
 - **[[Current Threads]]:** Active quests, clues, and next steps.
-- **[[People]]:** People and groups the party knows about.
-- **[[Party]]:** Players and characters.
+- **[[People & Groups]]:** People and groups the party knows about.
+- **[[Party Members]]:** Players and characters.
 
 ## Latest session
 
@@ -88,7 +89,7 @@ ${section('Quick recap')}
 
 ${section('Where we stopped')}
 
-## Sessions
+## Session Notes
 
 ${sessions.map(item => `- [[${item}|${path.posix.basename(item, '.md')}]]`).join('\n')}
 `

@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-04
 **Active players:** Owen, Damane, Shepherd, Brayden
-**References:** [Party](../Party.md) · [Current Threads](../Current%20Threads.md) · [People](../People/index.md)
+**References:** [Party Members](../Party%20Members.md) · [Current Threads](../Current%20Threads.md) · [People & Groups](../People%20&%20Groups/index.md)
 **Source:** Session notes and campaign handouts.
 
 ## Quick recap
@@ -114,7 +114,7 @@
 	- Nathan shared his origin and introduced Gordon; Jorah expressed interest in Earth's animals.
 - **Mayor Silas Pruitt:** Offered help against Garrick after a hostile interrogation.
 	- The party distrusted his secrecy and dismissive attitude toward his dead guards.
-	- See [Silas Pruitt](../People/Silas%20Pruitt.md) for identity and aliases.
+	- See [Silas Pruitt](../People%20&%20Groups/Silas%20Pruitt.md) for identity and aliases.
 
 ## Loot & resource changes
 
@@ -150,7 +150,7 @@
 ## Table notes & corrections
 
 - **Transcript handling:**
-	- Correct names using [Party](../Party.md#Transcript%20name%20corrections); nicknames are intentional dialogue, not transcription mistakes.
+	- Correct names using [Party Members](../Party%20Members.md#Transcript%20name%20corrections); nicknames are intentional dialogue, not transcription mistakes.
 	- Nuclear bombs, spawned manticores, and joking instant deaths were not actual events.
 - **Mapping service:**
 	- Started with Roll20, then switched to D&D Beyond Maps after setup issues.

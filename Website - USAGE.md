@@ -10,10 +10,10 @@
 
 ## Content
 
-- **Included:** Party, People index, Current Threads, all Markdown notes in `People/` and `Sessions/`, and all files in `Attachments/`.
+- **Included:** Party Members, People & Groups index, Current Threads, all Markdown notes in `People & Groups/` and `Session Notes/`, and all files in `Attachments/`.
 	- These folders include subfolders; new notes and handouts are included automatically.
-- **Excluded:** `Personal/`, `Reference/`, `Sessions/Transcripts/`, hidden files and folders, and old campaigns.
-	- `Personal/` holds Gordon's live tracker and Nathan's session reference.
+- **Excluded:** `Personal/`, `Reference/`, `Session Notes/Transcripts/`, hidden files and folders, and old campaigns.
+	- `Personal/` holds `Gordon.md` (live tracker) and `Nathan.md` (session reference).
 	- `Reference/` holds Notes Guide and Session Template.
 - **Updates:** Run `Preview.cmd` or `Publish.cmd` to refresh the exported copy. Vault edits do not continuously sync to the website.
 - **Generated files:** `content/` is an export; edit the Obsidian originals instead.

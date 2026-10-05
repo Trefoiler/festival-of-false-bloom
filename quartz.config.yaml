@@ -11,9 +11,7 @@ configuration:
     - .obsidian
     - Personal
     - Reference
-    - Sessions/Transcripts
-    - Sessions/Template.md
-    - Notes Guide.md
+    - Session Notes/Transcripts
   theme:
     fontOrigin: local
     cdnCaching: true

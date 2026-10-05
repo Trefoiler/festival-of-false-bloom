@@ -1,7 +1,7 @@
 # Silas Pruitt
 
-**Updated through:** [Session 1](../Sessions/Session%201.md)
-**Index:** [People](index.md)
+**Updated through:** [Session 1](../Session%20Notes/Session%201.md)
+**Index:** [People & Groups](index.md)
 
 - **Identity:** Mayor of Hanesworth; survived the festival explosion.
 	- Appearance: approximately 5'10", brown suit, neatly trimmed beard; dusty and bruised afterward.
@@ -15,4 +15,4 @@
 	- Offered five supply quests and a route toward the Hollowed Expanse.
 - **Observed connection:** His chest insignia matches the farmhouse men's knives.
 - **Last seen:** Alive in Hanesworth; the party said it would return from the farm.
-- **Source:** [Session 1](../Sessions/Session%201.md#Chronological%20summary).
+- **Source:** [Session 1](../Session%20Notes/Session%201.md#Chronological%20summary).

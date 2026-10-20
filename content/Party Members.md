@@ -6,7 +6,7 @@
 
 | Player | Character | Species | Class | Level | D&D Beyond username |
 | --- | --- | --- | --- | --- | --- |
-| Damane | Azier Hoshino | Zenkai | Monk | 3 | EnamaD |
+| Damane | Azier Hoshino | Human | Monk | 3 | EnamaD |
 | Brayden | EscaMundo | Human | Barbarian | 3 | ImBerserk_ |
 | Shepherd (Shep) | Jorah Athelemane | Elf | Druid — Circle of Shepherd | 3 | uhhshep |
 | Owen | Nathan Newton | Human | Artificer — Armorer (Infiltrator) | 3 | Trefoiler |
@@ -22,7 +22,7 @@
 - Damon → **Damane** (player)
 - Braden → **Brayden** (player)
 
-*Names, species, base classes, and account names follow the supplied campaign screenshot; player names follow Owen's corrections. All four characters reached level 3 after Session 2. Nathan's subclass and model were chosen during the subsequent level-up review.*
+*The roster reflects the party's current understanding. Names, base classes, and account names follow the supplied campaign screenshot; player names follow Owen's corrections. All four characters reached level 3 after Session 2. Nathan's subclass and model were chosen during the subsequent level-up review.*
 
 ## Later transcript names
 

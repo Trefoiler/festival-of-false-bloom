@@ -10,7 +10,7 @@
 - The party defeated the farmhouse attackers. The wounded farmer, Tomas Reed, restored EscaMundo after his death-save sequence.
 - Recovered Tomas's ox, Stevenwald, and rested at the farm. Tomas then loaded the supply cart and joined the escort toward Hanesworth.
 - A riverside fey ritual produced an ape from a dead deer; two shadows emerged around Tomas and Stevenwald. The ape sought the “stone of change.”
-- The party defeated the shadows and the ape, including its second shadow form. Azier was downed during the fight.
+- The party defeated the shadows and the ape, including its second shadow form. Azier was downed during the fight and recovered afterward.
 - Tomas revealed a family stone concealed in his sword. Nathan's examination led him to conclude someone was trapped inside. Everyone leveled to 3 after the adventure stopped.
 
 ## Where we stopped
@@ -18,7 +18,7 @@
 - **Riverside road, around midday:** Both fights are over; the group is still returning toward Hanesworth with Tomas, Stevenwald, and the supply cart.
     - Tomas and Stevenwald recovered from their strange unresponsive state; Tomas has shown the party his heirloom stone.
     - Nathan and Gordon had moved toward Azier near the final exchange. Exact current positions remain on D&D Beyond Maps.
-    - Azier was treated as stabilized after combat; current HP and conditions belong on his character sheet.
+    - Azier recovered after combat; current HP and conditions belong on his character sheet.
 - **Next steps:** Resume the escort, return the medical supplies, and follow up on the stone and ritual.
     - The return to town, quest hand-in, and reward payment have not happened in the recorded session.
     - A short rest was suggested but not completed before the session ended. The farm long rest occurred before the river encounter.
@@ -54,7 +54,7 @@
     - EscaMundo fought one shadow while Nathan and Gordon fought the other. Gordon destroyed his target with Force Strike; Nathan then positioned him to help the injured allies.
     - One shadow visibly drained Jorah and recovered from its own injuries.
     - Azier brought the ape down, but it convulsed, its jaw reformed, and it rose in a shadow form. It then knocked Azier unconscious; his first death save was a natural 1, giving two failures.
-    - EscaMundo finished the remaining shadow and then killed the shadow ape with his axe. After combat, Jon treated Azier as stabilized; the proposed Cure Wounds delivery through Gordon was not carried out.
+    - EscaMundo finished the remaining shadow and then killed the shadow ape with his axe. Azier recovered after combat; the proposed Cure Wounds delivery through Gordon was not carried out.
 - **Tomas's heirloom:**
     - Tomas and Stevenwald recovered with little understanding of the battle. Tomas mentioned a fuzzy memory of something long ago.
     - On hearing about the stone, Tomas explained that his family had guarded an heirloom for generations. His father had insisted on protecting it and warned that knowing more could be dangerous.
@@ -110,7 +110,7 @@
 
 - **Attendance and recording:** Damane joined at about 7:20 p.m., after the farmhouse fight. Two recordings cover the same session; the switch occurred during the riverside summoning.
 - **Rest recovery:** The group explicitly chose full recovery of spent Hit Dice on a long rest, using the selected 2024 rule.
-- **Downed characters:** EscaMundo's restoration by Tomas and Azier's post-combat stabilization were rulings in these scenes. A general death-replacement or automatic post-combat healing rule was not established.
+- **Downed characters:** Tomas restored EscaMundo after the farmhouse fight; Azier recovered after the river battle. These events did not establish a general death-replacement or automatic post-combat healing rule.
 - **Rage corrections after play:** Rage had mistakenly been granting attack advantage, and damage resistance had been missed.
     - Rage itself does not grant attack advantage. Its damage bonus, resistance, duration, and ending conditions were reviewed; light and medium armor remain compatible with its normal benefits.
     - EscaMundo's separate drunkenness chart still needs checking with Jon and Brayden.

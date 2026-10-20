@@ -3,7 +3,7 @@ cssclasses: [people-index]
 ---
 # People & Groups
 
-**Updated through:** [Session 1](../Session%20Notes/Session%201.md)
+**Updated through:** [Session 2](../Session%20Notes/Session%202.md)
 **Player characters:** [Party Members](../Party%20Members.md)
 **Unfinished business:** [Current Threads](../Current%20Threads.md)
 
@@ -11,14 +11,21 @@ cssclasses: [people-index]
 
 | Person | Role | Nickname | Current status |
 | --- | --- | --- | --- |
-| [Silas Pruitt](Silas%20Pruitt.md) | Mayor | Slushy | Alive; tense relationship with party |
+| [Silas Pruitt](Silas%20Pruitt.md) | Mayor | Slushy | Awaiting the supply return; sigil remains unexplained |
 
-## Farm
+## Reed farm & supply escort
 
 | Person/group | Role | Current status |
 | --- | --- | --- |
-| [Farmhouse men](Farmhouse%20Men.md) | Five armed occupants | Facing party; knives match Silas's insignia |
-| [Wounded man](Wounded%20Farm%20Man.md) | Identity unknown | Alive; bleeding and needs help |
+| [Farmhouse men](Farmhouse%20Men.md) | Cult fanatic, two bandits, two goblins | All five killed; affiliation unknown |
+| [Stevenwald](Stevenwald.md) | Tomas's ox | Pulling the supply cart; recovered after the river encounter |
+| [Tomas Reed](Tomas%20Reed.md) | Farmer; previously the wounded man | Traveling with party; revealed an heirloom stone in his sword |
+
+## Riverside encounter
+
+| Person/group | Role | Current status |
+| --- | --- | --- |
+| [Riverside fey](Riverside%20Fey.md) | Unnamed summoners | Vanished into the brush; motives unknown |
 
 ## Mentioned but not met
 
@@ -30,4 +37,5 @@ cssclasses: [people-index]
 ## Minor people & groups
 
 - **[Minor Encounters](Minor%20Encounters.md):** Incidental people and enemies, organized by session.
-	- Session 1: Festival bandits and acolytes, the barkeep, and the farm corpse.
+    - Session 1: Festival bandits and acolytes, the barkeep, and the farm corpse.
+    - Session 2: Ox thieves, Betty's mention, and the ape and shadows.

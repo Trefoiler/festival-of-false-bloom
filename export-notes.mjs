@@ -51,7 +51,7 @@ function clean(text, current) {
     const label = alias || path.posix.basename(target)
     if (!resolved) return label
     const url = relativeUrl(current, resolved,
-      anchor.length ? `#${encodeURIComponent(anchor.join('#'))}` : '')
+      anchor.length ? `#${encodeURIComponent(anchor.join('#')).replaceAll('%26', '&')}` : '')
     return `${embed}[${label}](${url})`
   })
 }

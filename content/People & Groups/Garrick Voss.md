@@ -11,4 +11,4 @@
 	- Collects things from the surrounding area and kills what he does not want.
 	- Operates in the Hollowed Expanse, among ruins and factories.
 - **Unconfirmed:** Responsibility for the explosions and affiliation of the farmhouse men.
-- **Source:** [Session 1: Clues & open questions](../Session%20Notes/Session%201.md#Clues%20%26%20open%20questions).
+- **Source:** [Session 1: Clues & open questions](../Session%20Notes/Session%201.md#Clues%20&%20open%20questions).

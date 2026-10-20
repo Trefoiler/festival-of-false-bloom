@@ -1,18 +1,19 @@
 # Silas Pruitt
 
-**Updated through:** [Session 1](../Session%20Notes/Session%201.md)
+**Updated through:** [Session 2](../Session%20Notes/Session%202.md)
 **Index:** [People & Groups](index.md)
 
 - **Identity:** Mayor of Hanesworth; survived the festival explosion.
-	- Appearance: approximately 5'10", brown suit, neatly trimmed beard; dusty and bruised afterward.
+    - Appearance: approximately 5'10", brown suit, neatly trimmed beard; dusty and bruised afterward.
 - **Nathan's nickname:** “Slushy.”
 - **Relationship with the party:** Tense; offered guidance and quests after being restrained and threatened.
-	- Nathan noticed he was hiding information.
-	- Dismissive comments about the dead guards contributed to the party's distrust.
+    - Nathan noticed he was hiding information.
+    - Dismissive comments about the dead guards contributed to the party's distrust.
 - **Information he provided:**
-	- Named Garrick Voss as the suspected culprit and described the extortion demand.
-	- Claimed a chest sigil prevents disclosure of an additional demand on pain of death.
-	- Offered five supply quests and a route toward the Hollowed Expanse.
+    - Named Garrick Voss as the suspected culprit and described the extortion demand.
+    - Claimed a chest sigil prevents disclosure of an additional demand on pain of death.
+    - Offered five supply quests and a route toward the Hollowed Expanse.
 - **Observed connection:** His chest insignia matches the farmhouse men's knives.
+- **Tomas's report:** Said Silas arranged a supply cave north of town, toward the mountains. The party has not verified whether it is the quest cave.
 - **Last seen:** Alive in Hanesworth; the party said it would return from the farm.
-- **Source:** [Session 1](../Session%20Notes/Session%201.md#Chronological%20summary).
+- **Sources:** [Session 1](../Session%20Notes/Session%201.md#Chronological%20summary); [Session 2](../Session%20Notes/Session%202.md#Chronological%20summary).

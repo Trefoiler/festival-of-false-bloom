@@ -61,7 +61,7 @@
 	- Jorah used Entangle; EscaMundo threatened him and pulled him free roughly.
 	- Silas described Garrick Voss's extortion demand and showed his chest sigil.
 		- He offered guidance toward Garrick and said the party needed about 20 supplies each for the journey.
-		- See [Current Threads](../Current%20Threads.md#Garrick%20Voss%20%26%20the%20Hollowed%20Expanse) for his claims.
+		- See [Current Threads](../Current%20Threads.md#Garrick%20Voss%20&%20the%20Hollowed%20Expanse) for his claims.
 - **Quest selection and travel:**
 	- Silas supplied five quest scrolls; Nathan kept them.
 	- The party considered the bridge caravan because of Jorah's search and the black boots.

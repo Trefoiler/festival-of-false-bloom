@@ -1,13 +1,13 @@
 # Farmhouse Men
 
-**Updated through:** [Session 1](../Session%20Notes/Session%201.md)
+**Updated through:** [Session 2](../Session%20Notes/Session%202.md)
 **Index:** [People & Groups](index.md)
 
-- **Identity:** Unknown; encountered as a group.
-- **Observed:**
-	- Cloaks, daggers, and black footwear different from the town attackers' boots.
-	- Hid in the rafters, then descended after Jorah knocked over supplies.
-	- Knives bear the same insignia as Silas's chest sigil.
-- **Status:** Facing the party with weapons drawn at the end of Session 1.
-- **Unconfirmed:** Connection to Garrick and whether they were involved in EscaMundo's kidnapping.
-- **Source:** [Session 1: Chronological summary](../Session%20Notes/Session%201.md#Chronological%20summary).
+- **Identity:** The five farmhouse opponents were revealed in combat as a cult fanatic, two bandits, and two goblins. Their names and affiliation remain unknown.
+- **Observed in Session 1:** Hid in the rafters, then descended after Jorah knocked over supplies.
+    - Cloaks, daggers, and dark footwear were noted; the footwear differed from the festival attackers' boots.
+    - Their knives bore the same insignia as Silas's chest sigil.
+- **Session 2:** Jorah's Entangle delayed the goblins while the others fought. The fanatic downed EscaMundo; the battle moved into the yard.
+- **Status:** All five killed. The wounded farmer survived and was identified as Tomas Reed.
+- **Unconfirmed:** Connection to Garrick, meaning of the insignia, and any role in EscaMundo's kidnapping. Tomas did not identify their group.
+- **Sources:** [Session 1](../Session%20Notes/Session%201.md); [Session 2](../Session%20Notes/Session%202.md).

@@ -7,6 +7,7 @@ The campaign wiki from the party's perspective. NPC claims and party theories ar
 - **[Current Threads](Current%20Threads.md):** Active quests, clues, and next steps.
 - **[People & Groups](People%20&%20Groups/index.md):** People and groups the party knows about.
 - **[Party Members](Party%20Members.md):** Players and characters.
+- **[Character References](Character%20References/index.md):** Individual play references and shopping lists.
 
 ## Latest session
 

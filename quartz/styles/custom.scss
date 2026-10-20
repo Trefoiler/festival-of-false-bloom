@@ -1,6 +1,7 @@
 @use "./variables.scss" as *;
 
-// The curated People index already organizes the folder's entries.
-.popover-hint > article.people-index + .page-listing {
+// Curated indexes already organize their folders; omit the automatic duplicate list.
+.popover-hint > article.people-index + .page-listing,
+.popover-hint > article.character-index + .page-listing {
   display: none;
 }

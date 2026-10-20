@@ -3,14 +3,16 @@
 **DM:** Jon — `paleboyjon`
 
 **Campaign notes:** [Current Threads](Current%20Threads.md) · [People & Groups](People%20&%20Groups/index.md) · [Session 2](Session%20Notes/Session%202.md)
+**Character references:** [All five sheets](Character%20References/index.md)
 
 | Player | Character | Species | Class | Level | D&D Beyond username |
 | --- | --- | --- | --- | --- | --- |
-| Damane | Azier Hoshino | Human | Monk | 3 | EnamaD |
-| Brayden | EscaMundo | Human | Barbarian | 3 | ImBerserk_ |
-| Shepherd (Shep) | Jorah Athelemane | Elf | Druid — Circle of Shepherd | 3 | uhhshep |
-| Owen | Nathan Newton | Human | Artificer — Armorer (Infiltrator) | 3 | Trefoiler |
+| Damane | [Azier Hoshino](Character%20References/Azier.md) | Human | Monk | 3 | EnamaD |
+| Brayden | [EscaMundo](Character%20References/EscaMundo.md) | Human | Barbarian — Berserker | 3 | ImBerserk_ |
+| Shepherd (Shep) | [Jorah Athelemane](Character%20References/Jorah.md) | Elf | Druid — Circle of Shepherd | 3 | uhhshep |
+| Owen | [Nathan Newton](Character%20References/Nathan.md) | Human | Artificer — Armorer (Infiltrator) | 3 | Trefoiler |
 
+**Companion:** [Gordon](Character%20References/Gordon.md) — Nathan's flying raccoon-shaped homunculus servant.
 
 ## Transcript name corrections
 

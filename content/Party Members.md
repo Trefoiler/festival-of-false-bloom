@@ -2,7 +2,7 @@
 
 **DM:** Jon — `paleboyjon`
 
-**Campaign notes:** [Current Threads](Current%20Threads.md) · [People & Groups](People%20&%20Groups/index.md) · [Session 2](Session%20Notes/Session%202.md)
+**Campaign notes:** [Current Threads](Current%20Threads.md) · [People & Groups](People%20&%20Groups/index.md) · [Session 3](Session%20Notes/Session%203.md)
 **Character references:** [All five sheets](Character%20References/index.md)
 
 | Player | Character | Species | Class | Level | D&D Beyond username |
@@ -30,4 +30,9 @@
 
 - Thomas → Tomas Reed; first name explicitly spelled without an H, surname confirmed as R-E-E-D in Session 2.
 - Steven / Stephen / Steven Wald / Steven Wall / Stephen Lall → Stevenwald, Tomas's ox; one word with W-A-L-D ending specified during Session 2.
-- Stone of chains → stone of change, as corrected in the Session 2 conversation; formal item identity remains unconfirmed.
+- Stone of chains → Stone of Change; Jon confirmed in Session 3 that it is the heirloom from Tomas's sword.
+- Hainsworth / Hayden → Hanesworth.
+- Hanesworth Goods and Supplies shopkeeper → Huff Huff Huff; Nathan calls him Huff.
+- Toby → Tobias, the blacksmith by the river.
+- Shmeal / Shmuel → Schmiel, one of the Dragon's Folly gamblers.
+- Grimoth → Grimith, the other gambler.

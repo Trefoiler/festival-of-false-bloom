@@ -1,6 +1,6 @@
 # Silas Pruitt
 
-**Updated through:** [Session 2](../Session%20Notes/Session%202.md)
+**Updated through:** [Session 3](../Session%20Notes/Session%203.md)
 **Index:** [People & Groups](index.md)
 
 - **Identity:** Mayor of Hanesworth; survived the festival explosion.
@@ -9,11 +9,14 @@
 - **Relationship with the party:** Tense; offered guidance and quests after being restrained and threatened.
     - Nathan noticed he was hiding information.
     - Dismissive comments about the dead guards contributed to the party's distrust.
+    - In Session 3, the party interrupted him with a woman in his office. Her role and their relationship are unconfirmed.
+        - Jorah later shared that she wore what looked like a wedding ring. The party did not establish whether she or Silas was married.
+    - Gave EscaMundo a bottle that temporarily changed his appearance. Their brief fight ended with both alive. The party kept the Stone of Change from Silas.
 - **Information he provided:**
     - Named Garrick Voss as the suspected culprit and described the extortion demand.
     - Claimed a chest sigil prevents disclosure of an additional demand on pain of death.
     - Offered five supply quests and a route toward the Hollowed Expanse.
 - **Observed connection:** His chest insignia matches the farmhouse men's knives.
 - **Tomas's report:** Said Silas arranged a supply cave north of town, toward the mountains. The party has not verified whether it is the quest cave.
-- **Last seen:** Alive in Hanesworth; the party said it would return from the farm.
-- **Sources:** [Session 1](../Session%20Notes/Session%201.md#Chronological%20summary); [Session 2](../Session%20Notes/Session%202.md#Chronological%20summary).
+- **Last seen:** Outside the Hanesworth hospital, where he took delivery of the medical supplies and paid the reward for **A Hospitable Choice**.
+- **Sources:** [Session 1](../Session%20Notes/Session%201.md#Chronological%20summary); [Session 2](../Session%20Notes/Session%202.md#Chronological%20summary); [Session 3](../Session%20Notes/Session%203.md).

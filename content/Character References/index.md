@@ -8,7 +8,7 @@ One reference sheet for each character, with common turns, attacks, abilities, r
 
 | Character | Player / controller | Reference status |
 | --- | --- | --- |
-| [Azier](Azier.md) | Damane | Placeholder |
+| [Azier](Azier.md) | Damane | Equipment only |
 | [EscaMundo](EscaMundo.md) | Brayden | Ready |
 | [Gordon](Gordon.md) | Owen; Nathan's companion | Ready |
 | [Jorah](Jorah.md) | Shepherd | Placeholder |

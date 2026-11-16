@@ -91,6 +91,11 @@ Base stats before homebrew drunkenness adjustments. Track current HP, Rage uses,
 >
 > Track the current level and apply only the bonuses confirmed by Jon and Brayden. The numbers above do not include those adjustments.
 
+> [!info]- EscaMundo's Six-Shooter
+> **Status:** Approved and in Party Inventory, but Nathan has not built it. EscaMundo paid 6 gp for the first three vials; three more and the bandolier hardware are still needed.
+>
+> **When built:** With one free hand, use one bonus action to draw a loaded vial, pop the cork, and drink it. Each vial is one normal drink. Refill from the liquor supply outside combat in a minute or two; track loaded vials out of six in Party Inventory or on the owner's sheet after transfer.
+
 ## Shopping list
 
 > [!info]- Planned purchases

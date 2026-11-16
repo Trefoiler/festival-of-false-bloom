@@ -11,25 +11,22 @@ The campaign wiki from the party's perspective. NPC claims and party theories ar
 
 ## Latest session
 
-[Read Session 2](Session%20Notes/Session%202.md)
+[Read Session 3](Session%20Notes/Session%203.md)
 
-- The party defeated the farmhouse attackers. The wounded farmer, Tomas Reed, restored EscaMundo after his death-save sequence.
-- Recovered Tomas's ox, Stevenwald, and rested at the farm. Tomas then loaded the supply cart and joined the escort toward Hanesworth.
-- A riverside fey ritual produced an ape from a dead deer; two shadows emerged around Tomas and Stevenwald. The ape sought the “stone of change.”
-- The party defeated the shadows and the ape, including its second shadow form. Azier was downed during the fight and recovered afterward.
-- Tomas revealed a family stone concealed in his sword. Nathan's examination led him to conclude someone was trapped inside. Everyone leveled to 3 after the adventure stopped.
+- Tomas Reed lent the party the Stone of Change. The party agreed to keep it from Mayor Silas Pruitt and promised to return it to Tomas.
+- The party delivered the medical supplies to Hanesworth's hospital and completed **A Hospitable Choice**, earning 2 Supplies and 12 gp.
+- Silas gave EscaMundo a potion that changed his appearance for ten days without changing his stats. Their brief fight ended with both still alive.
+- At Hanesworth Goods and Supplies, EscaMundo bought three vials for the unfinished Six-Shooter, and Azier acquired Reinforced Hand Wraps. The party took a long rest in town.
+- On the way to the smith, two goblins cheated at Dragon's Folly and killed each other. The party took the real gold and split 28 gp four ways.
 
 ## Where we stopped
 
-- **Riverside road, around midday:** Both fights are over; the group is still returning toward Hanesworth with Tomas, Stevenwald, and the supply cart.
-    - Tomas and Stevenwald recovered from their strange unresponsive state; Tomas has shown the party his heirloom stone.
-    - Nathan and Gordon had moved toward Azier near the final exchange. Exact current positions remain on D&D Beyond Maps.
-    - Azier recovered after combat; current HP and conditions belong on his character sheet.
-- **Next steps:** Resume the escort, return the medical supplies, and follow up on the stone and ritual.
-    - The return to town, quest hand-in, and reward payment have not happened in the recorded session.
-    - A short rest was suggested but not completed before the session ended. The farm long rest occurred before the river encounter.
+- **Gambling tent in the woods:** The party is partway to Tobias “Toby,” the smith by the river. Both gamblers are dead, the loot has been split, and no fight is in progress.
+    - The party has not reached Toby. Continue along the river route to pursue **The Smith's Request** and ask about equipment and the remaining Six-Shooter parts.
+    - Tomas and Stevenwald were heading back to the farm. The party still has the Stone of Change.
 
 ## Session Notes
 
 - [Session 1](Session%20Notes/Session%201.md)
 - [Session 2](Session%20Notes/Session%202.md)
+- [Session 3](Session%20Notes/Session%203.md)

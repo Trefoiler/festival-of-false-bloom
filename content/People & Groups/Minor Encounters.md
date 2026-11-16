@@ -1,6 +1,6 @@
 # Minor Encounters
 
-**Updated through:** [Session 2](../Session%20Notes/Session%202.md)
+**Updated through:** [Session 3](../Session%20Notes/Session%203.md)
 **Index:** [People & Groups](index.md)
 
 ## Session 1
@@ -29,3 +29,13 @@
     - Azier dropped the ape's first form. It rose again as a shadow ape, downed him, and was killed by EscaMundo.
     - Names, allegiance, and the mechanism linking the creatures were not established. See [Riverside Fey](Riverside%20Fey.md).
 - **Source:** [Session 2](../Session%20Notes/Session%202.md).
+
+## Session 3
+
+- **Woman at the mayor's office:** Brown-haired and unnamed. Left hurriedly after the party interrupted her with Silas, gathering belongings from the front desk before leaving.
+    - Silas denied she was the receptionist. The party did not establish her role or relationship to him.
+    - The next morning Jorah saw her wearing what looked like a wedding ring and shared the observation. Her marital status is unconfirmed.
+- **Schmiel and Grimith:** Two goblins who ran Dragon's Folly from a tent in the woods on the way to Toby.
+    - A dispute over coins exposed concealed cards and turned violent. Schmiel stabbed Grimith, who killed Schmiel with an arcane blast. Neither survived.
+    - The party found counterfeit coins among the stakes.
+- **Source:** [Session 3](../Session%20Notes/Session%203.md).
